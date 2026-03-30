@@ -28,8 +28,8 @@ jobs:
           args: -I . --html -o build/
         env:
           MARP_USER: root:root
-      - name: Rename README to index
-        run: mv build/README.html build/index.html
+      - name: Copy index to build
+        run: cp index.html build/index.html
       - name: Marp Build PDF (all markdown files)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
