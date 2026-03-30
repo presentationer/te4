@@ -1,6 +1,5 @@
 ---
 marp: true
-html: true
 theme: tcstenungsund
 paginate: true
 ---
@@ -30,7 +29,7 @@ You can use **bold**, *italic*, and `inline code`.
 
 ## A slide with an image
 
-![A descriptive alt text]([https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
+![A descriptive alt text](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
 
 ---
 
