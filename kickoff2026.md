@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: Nord
+html: true
+theme: default
 paginate: true
 ---
 
