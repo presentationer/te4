@@ -33,6 +33,12 @@ You can use **bold**, *italic*, and `inline code`.
 
 ---
 
+## A slide with an image
+
+<img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f" style="background-size:cover;height:100dvh;width:100dvw;" />  
+
+---
+
 ## A slide with a two-column layout
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
