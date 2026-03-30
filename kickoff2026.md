@@ -1,7 +1,7 @@
 ---
 marp: true
 html: true
-theme: default
+theme: tcstenungsund
 paginate: true
 ---
 
