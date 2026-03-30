@@ -1,17 +1,3 @@
-<!--
-theme: gaia
-class:
- - invert
-headingDivider: 2 
-paginate: true
--->
-
-<!--
-_class:
- - lead
- - invert
--->
-
 # Deploy Marp to GitHub Pages
 
 Presentations to Webpages: Instantly!
