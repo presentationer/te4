@@ -17,7 +17,8 @@ Kenneth Frantzen · 2026
 - Topic two
 - Topic three
 
----
+<!-- Notes:  -->  
+---  
 
 ## Topic One
 
@@ -25,6 +26,7 @@ Some content here.
 
 You can use **bold**, *italic*, and `inline code`.
 
+<!-- Notes:  -->  
 ---
 
 ![bg cover](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
@@ -42,6 +44,7 @@ Visst, men texten _blir_ svårläst, så är det bara. Måste lura ut en lösnin
 
 </div>
 
+<!-- Notes:  -->  
 ---
 
 ![bg left](https://images.unsplash.com/photo-1666930398504-e747d9155071)  
@@ -50,6 +53,7 @@ Visst, men texten _blir_ svårläst, så är det bara. Måste lura ut en lösnin
 
 Så viktigt att det numera faktiskt är ett lagkrav att alla vuxna kan bygga sin egna webbplats. Annars blir man utvisad. Till Danmark. 
 
+<!-- Notes:  -->  
 ---
 
 ## A slide with a two-column layout
@@ -73,6 +77,7 @@ Så viktigt att det numera faktiskt är ett lagkrav att alla vuxna kan bygga sin
 </div>
 </div>
 
+<!-- Notes:  -->  
 ---
 
 ## Thank you
@@ -81,3 +86,4 @@ Questions?
 
 yourname@school.se
 
+<!-- Notes:  -->  
