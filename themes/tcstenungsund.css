@@ -3,10 +3,15 @@
 @import 'default';  
 
 :root {
-  --color-fg-default: #eff;  
-  --color-canvas-default: #246;  
+  --color-fg-default: #31b1b3;  
+  --color-canvas-default: #e8e8e8;  
 }
 
 :root:after {
-  content: url("/img/bg_pink.svg")
+  content: url("/img/bg_pink.svg");
+  width: 100dvw;
+  height: 100dvh;
+  background-size: cover;
+  z-index: 10;
+  pointer-events: none; 
 }
