@@ -29,9 +29,11 @@ You can use **bold**, *italic*, and `inline code`.
 
 ![bg cover](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
 
+<div style="padding: 1rem;background: url('https://images.unsplash.com/photo-1516321497487-e288fb19713f'); backdrop-filter:blur(5px)">
 ## Bildbakgrund!  
 
 Visst, men texten _blir_ svårläst, så är det bara. Måste lura ut en lösning på det. Finns säkert redan inbyggt. :-) 
+</div>
 
 ---
 
