@@ -7,12 +7,12 @@
   --color-canvas-default: #e8e8e8;  
 }
 
-/* section {
-  background: url('https://images.unsplash.com/photo-1682559736721-c2e77ff4c650');
+section {
+  background: url('/img/bg_rosa.svg');
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;  
-} */
+} 
 
 section::after {
   content: ""; 
