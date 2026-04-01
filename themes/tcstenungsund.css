@@ -7,7 +7,7 @@
   --color-canvas-default: #e8e8e8;  
 }
 
-body {
+section {
   background: url('https://images.unsplash.com/photo-1682559736721-c2e77ff4c650');
   background-size: cover; 
   background-repeat: no-repeat;
