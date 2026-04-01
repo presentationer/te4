@@ -7,11 +7,12 @@
   --color-canvas-default: #e8e8e8;  
 }
 
-section > footer {
+section .marp-pagination {
+  position: absolute;
+  left: 1rem; 
+  bottom: 0.5rem;   
   justify-content: flex-start;
   text-align: left;
-  padding-left: 2rem;
-  padding-right: 0;
 }
 
 section::before {
