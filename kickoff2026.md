@@ -32,7 +32,8 @@ You can use **bold**, *italic*, and `inline code`.
 <div style="
   margin:0;
   padding: 1rem;
-  background: #fffa;
+  background: #fffd;
+  border-radius: 1rem;
   ">  
 
 ## Bildbakgrund!  
