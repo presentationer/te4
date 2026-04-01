@@ -26,10 +26,19 @@ Some content here.
 You can use **bold**, *italic*, and `inline code`.
 
 ---
+![bg cover](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
 
-## A slide with an image
+## Bildbakgrund!  
 
-![A descriptive alt text](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
+Visst, men texten _blir_ svårläst, så är det bara. Måste lura ut en lösning på det. Finns säkert redan inbyggt. :-) 
+
+---
+
+![bg left](https://images.unsplash.com/photo-1666930398504-e747d9155071)  
+
+## KÅD ÄR VIKTIGT!  
+
+Så viktigt att det numera faktiskt är ett lagkrav att alla vuxna kan bygga sin egna webbplats. Annars blir man utvisad. Till Danmark. 
 
 ---
 
