@@ -7,6 +7,10 @@
   --color-canvas-default: #e8e8e8;  
 }
 
+* {
+  background: hotpink;
+}
+
 body::after {
   content: ""; 
   position: absolute;
