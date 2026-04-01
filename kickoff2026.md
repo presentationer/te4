@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tcstenungsund
-paginate: false
+paginate: true
 ---
 
 # Your Presentation Title
@@ -26,6 +26,7 @@ Some content here.
 You can use **bold**, *italic*, and `inline code`.
 
 ---
+
 ![bg cover](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
 
 ## Bildbakgrund!  
@@ -53,7 +54,8 @@ Så viktigt att det numera faktiskt är ett lagkrav att alla vuxna kan bygga sin
 - Point two
 
 </div>
-<div style="background:hotpink;">
+
+<div>
 
 ### Right column
 - Point three
