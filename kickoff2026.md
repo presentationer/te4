@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: tcstenungsund
-paginate: true
+paginate: false
 ---
 
 # Your Presentation Title
