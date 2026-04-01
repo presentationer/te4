@@ -8,7 +8,7 @@
 }
 
 :root:after {
-  content: url("/img/bg_pink.svg");
+  content: url("/img/bg_rosa.svg");
   width: 100dvw;
   height: 100dvh;
   background-size: cover;
