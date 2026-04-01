@@ -29,7 +29,17 @@ You can use **bold**, *italic*, and `inline code`.
 
 ![bg cover](https://images.unsplash.com/photo-1516321497487-e288fb19713f)  
 
-<div style="padding: 1rem;background: url('https://images.unsplash.com/photo-1516321497487-e288fb19713f'); background-size: cover; background-repeat: no-repeat; background-position: center; backdrop-filter: blur(10px);">  
+<div style="
+  margin:0;
+  padding: 1rem;
+  height: 100%; 
+  width: 100%;
+  background: url('https://images.unsplash.com/photo-1516321497487-e288fb19713f'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  backdrop-filter: invert(80%);
+  ">  
 
 ## Bildbakgrund!  
 
