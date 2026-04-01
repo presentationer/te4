@@ -7,8 +7,11 @@
   --color-canvas-default: #e8e8e8;  
 }
 
-* {
-  background: hotpink;
+body {
+  background: url('https://images.unsplash.com/photo-1682559736721-c2e77ff4c650');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;  
 }
 
 body::after {
