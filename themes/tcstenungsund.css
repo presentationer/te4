@@ -8,12 +8,12 @@
 }
 
 section {
-  background: url('/img/bg_rosa.svg');
+  background: url('/img/bg_rosa-vit.png');
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;  
 } 
-
+/*
 section::after {
   content: ""; 
   position: absolute;
@@ -21,7 +21,7 @@ section::after {
   left: 0;
   width: 100dvw;
   height: 100dvh;
-  background-image: url('/img/bg_rosa.svg');
+  background-image: url('/img/bg_rosa-vit.png');
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
@@ -29,3 +29,4 @@ section::after {
   pointer-events: none;
   z-index: 10;
 }
+*/
