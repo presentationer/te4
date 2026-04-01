@@ -14,7 +14,7 @@
   background-position: center;  
 } */
 
-section::after {
+section::before {
   content: ""; 
   position: absolute;
   top: 0;
