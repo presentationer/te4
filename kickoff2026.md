@@ -34,7 +34,8 @@ You can use **bold**, *italic*, and `inline code`.
   padding: 1rem;
   background: url('https://images.unsplash.com/photo-1516321497487-e288fb19713f'); 
   background-size: cover; 
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
+  background-position: center; 
   backdrop-filter: invert(80%);
   ">  
 
