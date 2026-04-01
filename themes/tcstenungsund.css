@@ -7,11 +7,18 @@
   --color-canvas-default: #e8e8e8;  
 }
 
-:root:after {
-  content: url("/img/bg_rosa.svg");
+body::after {
+  content: ""; 
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100dvw;
   height: 100dvh;
-  background-size: cover;
+  background-image: url('/img/bg_rosa.svg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.3;
+  pointer-events: none;
   z-index: 10;
-  pointer-events: none; 
 }
