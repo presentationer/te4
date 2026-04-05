@@ -18,17 +18,22 @@
 
 :root {
   font-size: 8px;
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
 }
 
 body, p, li {
   font: normal normal 500 normal 3rem/1.6 'Montserrat', sans-serif;
-
+  overflow-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   font: normal normal 900 normal 2rem/1.2 'Montserrat', sans-serif;
   margin: 0 0 1.8rem 0;
   padding: 0;
+  text-wrap: balance;
 }
 
 h1 {
