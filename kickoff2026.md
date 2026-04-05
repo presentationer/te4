@@ -4,10 +4,8 @@ theme: nosnasskolan_gul
 paginate: true
 ---
 
-# Your Presentation Title
-## Subtitle or course name
-
-Kenneth Frantzen · 2026
+# **DU** KAN BLI INGENJÖR  
+## _- PÅ ETT ÅR!_
 
 ---
 
