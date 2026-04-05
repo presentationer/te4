@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: nosnasskolan_gron
+theme: nosnasskolan_rosa
 paginate: true
 ---
 
