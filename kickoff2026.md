@@ -24,6 +24,10 @@ Kenneth Frantzen · 2026
 
 <!-- Notes:  -->  
 ---  
+<!-- 
+  _backgroundColor: #F2B640  
+  _color: #fff  
+-->
 
 ## Hur blir DU behörig? 
 
