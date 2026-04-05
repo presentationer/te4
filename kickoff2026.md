@@ -13,14 +13,14 @@ Kenneth Frantzen · 2026
 
 ![bg left](https://raw.githubusercontent.com/tcstenungsund/presskit/refs/heads/main/tc-s.png)  
 
-<h2>Gymnasieingenjör</h2>
-<h3>Ettårig eftergymnasial utbildning</h3>
+### Gymnasieingenjör
+#### Ettårig eftergymnasial utbildning
 
-<h2>- Informationsteknik</h2>
-<h4>Mjukvarudesign</h4>
+### - Informationsteknik
+#### Mjukvarudesign
 
-<h2>- Produktionsteknik</h2>
-<h3>Produktion och automation</h3>
+### - Produktionsteknik
+#### Produktion och automation
 
 <!-- Notes:  -->  
 ---  
