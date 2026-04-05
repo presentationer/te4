@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: nosnasskolan_rosa
+theme: nosnasskolan_gul
 paginate: true
 ---
 
@@ -11,20 +11,29 @@ Kenneth Frantzen · 2026
 
 ---
 
-## Agenda
+![bg left](https://raw.githubusercontent.com/tcstenungsund/presskit/refs/heads/main/tc-s.png)  
 
-- Topic one
-- Topic two
-- Topic three
+<h2>Gymnasieingenjör</h2>
+<h3>Ettårig eftergymnasial utbildning</h3>
+
+<h2>- Informationsteknik</h2>
+<h4>Mjukvarudesign</h4>
+
+<h2>- Produktionsteknik</h2>
+<h3>Produktion och automation</h3>
 
 <!-- Notes:  -->  
 ---  
 
-## Topic One
+## Hur blir DU behörig? 
 
-Some content here.
+Innan du påbörjar studierna behöver du komplettera med ett behörighetsgivande kurspaket. Detta kurspaket motsvarar Mekatronik 1 eller Programmering 1, beroende på vilken av våra två gymnasieingenjörsutgångar du väljer.  
 
-You can use **bold**, *italic*, and `inline code`.
+I samband med att du ansöker, var vänlig kontakta oss för att få tillgång till respektive kurspaket.  
+
+Informationsteknik - _ronnie.johansson@stenungsund.se_  
+Produktionsteknik - _martin.thim@stenungsund.se_  
+
 
 <!-- Notes:  -->  
 ---
