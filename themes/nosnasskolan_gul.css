@@ -12,8 +12,8 @@
  */
 
  :root {
-  --color-fg-default: #000;  
-  --color-canvas-default: #fbecd5;  
+  --color-fg-default: #0c0903;  
+  --color-canvas-default: #fefbf5;  
 }
 
 section::before {
