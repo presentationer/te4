@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: tcstenungsund
+theme: nosnasskolan_bla
 paginate: true
 ---
 

@@ -1,0 +1,21 @@
+/* @theme nosnasskolan_bla */
+
+@import 'nosnasskolan';
+
+/*
+ *   _____      _                      
+ *  / ____|    | |                     
+ * | |     ___ | | ___  _   _ _ __ ___ 
+ * | |    / _ \| |/ _ \| | | | '__/ __|
+ * | |___| (_) | | (_) | |_| | |  \__ \
+ *  \_____\___/|_|\___/ \__,_|_|  |___/
+ */
+
+ :root {
+  --color-fg-default: #4fa7c4;  
+  --color-canvas-default: #e8e8e8;  
+}
+
+section::before {
+  background-image: url('/te4/img/bg_nosnasskolan_bla.svg');
+}
